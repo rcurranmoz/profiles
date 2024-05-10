@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>Energy Saver, FileVault, Time Server, Mobile Accounts and Guest Account</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.MCX.4BCA4C49-8D09-45B4-AF67-8A05C940ED03</string>
+			<key>PayloadType</key>
+			<string>com.apple.MCX</string>
+			<key>PayloadUUID</key>
+			<string>4BCA4C49-8D09-45B4-AF67-8A05C940ED03</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>com.apple.EnergySaver.desktop.ACPower</key>
+			<dict>
+				<key>Automatic Restart On Power Loss</key>
+				<integer>1</integer>
+				<key>Disk Sleep Timer</key>
+				<integer>0</integer>
+				<key>Display Sleep Timer</key>
+				<integer>0</integer>
+				<key>System Sleep Timer</key>
+				<integer>0</integer>
+				<key>Wake On LAN</key>
+				<integer>1</integer>
+			</dict>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>Power Management</string>
+	<key>PayloadIdentifier</key>
+	<string>com.mozilla.power_profile</string>
+	<key>PayloadOrganization</key>
+	<string>Mozilla</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>4898EDFE-56CD-43A5-BA98-5D2BDA9D3167</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>TargetDeviceType</key>
+	<integer>5</integer>
+</dict>
+</plist>

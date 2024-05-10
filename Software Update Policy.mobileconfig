@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AllowPreReleaseInstallation</key>
+			<false/>
+			<key>AutomaticCheckEnabled</key>
+			<false/>
+			<key>AutomaticDownload</key>
+			<false/>
+			<key>AutomaticallyInstallAppUpdates</key>
+			<false/>
+			<key>AutomaticallyInstallMacOSUpdates</key>
+			<false/>
+			<key>CriticalUpdateInstall</key>
+			<false/>
+			<key>PayloadDisplayName</key>
+			<string>Software Update</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.SoftwareUpdate.89E7EB5D-58D5-44E5-95FE-D310A8B9E762</string>
+			<key>PayloadType</key>
+			<string>com.apple.SoftwareUpdate</string>
+			<key>PayloadUUID</key>
+			<string>89E7EB5D-58D5-44E5-95FE-D310A8B9E762</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>Software Update Policy</string>
+	<key>PayloadIdentifier</key>
+	<string>com.mozilla.swu_profile</string>
+	<key>PayloadOrganization</key>
+	<string>Mozilla</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>A5E669FE-6719-4C4F-ADF3-C2829BF24D3F</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>TargetDeviceType</key>
+	<integer>5</integer>
+</dict>
+</plist>
