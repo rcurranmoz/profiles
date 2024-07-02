@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>NotificationSettings</key>
+			<array>
+				<dict>
+					<key>BadgesEnabled</key>
+					<false/>
+					<key>BundleIdentifier</key>
+					<string>com.apple.tips</string>
+					<key>CriticalAlertEnabled</key>
+					<false/>
+					<key>NotificationsEnabled</key>
+					<false/>
+					<key>ShowInCarPlay</key>
+					<false/>
+					<key>ShowInLockScreen</key>
+					<false/>
+					<key>ShowInNotificationCenter</key>
+					<false/>
+					<key>SoundsEnabled</key>
+					<false/>
+				</dict>
+				<dict>
+					<key>BadgesEnabled</key>
+					<false/>
+					<key>BundleIdentifier</key>
+					<string>com.apple.touristd</string>
+					<key>CriticalAlertEnabled</key>
+					<false/>
+					<key>NotificationsEnabled</key>
+					<false/>
+					<key>ShowInCarPlay</key>
+					<false/>
+					<key>ShowInLockScreen</key>
+					<false/>
+					<key>ShowInNotificationCenter</key>
+					<false/>
+					<key>SoundsEnabled</key>
+					<false/>
+				</dict>
+			</array>
+			<key>PayloadDisplayName</key>
+			<string>Notifications</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.notificationsettings.A9F0064C-284F-48BB-89A4-526794603576</string>
+			<key>PayloadType</key>
+			<string>com.apple.notificationsettings</string>
+			<key>PayloadUUID</key>
+			<string>A9F0064C-284F-48BB-89A4-526794603576</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Skips the new to Mac tours and Tips notifications</string>
+	<key>PayloadDisplayName</key>
+	<string>Skip New to Mac Tours &amp; Tips</string>
+	<key>PayloadIdentifier</key>
+	<string>com.organization.B7D26EDC-7873-4F93-AA54-4EB7136438DD</string>
+	<key>PayloadOrganization</key>
+	<string>Pretendco</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>B7D26EDC-7873-4F93-AA54-4EB7136438DD</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
